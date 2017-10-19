@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+  <ServerVersion>Sql2008</ServerVersion>
+  <ServerName>DESKTOP-NDF7GFG\SQLEXPRESS2014</ServerName>
+  <DatabaseName>PUBS_QA</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>
